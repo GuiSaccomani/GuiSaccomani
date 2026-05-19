@@ -164,7 +164,7 @@ Sempre busco evoluir meus conhecimentos, aprender novas tecnologias e transforma
 <p align="left">
   <img 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=GuiSaccomani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?GuiSaccomani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
   />
   
   <img 
