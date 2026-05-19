@@ -16,25 +16,35 @@ Sempre busco evoluir meus conhecimentos, aprender novas tecnologias e transforma
             src="https://custom-icon-badges.demolab.com/github/followers/GuiSaccomani?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://github.com/GuiSaccomani?tab=repositories">
+
+<a href="https://github.com/GuiSaccomani?tab=repositories">
         <img 
             alt="GitHub stars" 
             title="Total de estrelas no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/GuiSaccomani?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
         />
     </a>
-    <a href="https://www.linkedin.com/in/guilherme-saccomani-653097204/">
+
+<a href="https://www.linkedin.com/in/guilherme-saccomani-653097204/" target="_blank">
         <img 
-            alt="LinkedIn" 
-            title="Meu LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+            alt="LinkedIn"
+            title="Meu LinkedIn"
+            src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+
+<a href="https://portfoliosaccomani.netlify.app/" target="_blank">
+        <img 
+            alt="Portfolio"
+            title="Meu Portfólio"
+            src="https://img.shields.io/badge/Portfólio-Online-ff69b4?style=for-the-badge&logo=vercel&logoColor=white"
         />
     </a>
 </p>
 
 ---
 
-### 🚀 Linguagens e Tecnologias
+## 🚀 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -44,6 +54,7 @@ Sempre busco evoluir meus conhecimentos, aprender novas tecnologias e transforma
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+
 <img 
     align="left" 
     alt="CSS" 
@@ -52,6 +63,7 @@ Sempre busco evoluir meus conhecimentos, aprender novas tecnologias e transforma
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -60,6 +72,7 @@ Sempre busco evoluir meus conhecimentos, aprender novas tecnologias e transforma
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
 <img 
     align="left" 
     alt="TypeScript"
@@ -68,6 +81,7 @@ Sempre busco evoluir meus conhecimentos, aprender novas tecnologias e transforma
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
+
 <img 
     align="left" 
     alt="React"
@@ -76,6 +90,7 @@ Sempre busco evoluir meus conhecimentos, aprender novas tecnologias e transforma
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Next.js" 
@@ -84,6 +99,7 @@ Sempre busco evoluir meus conhecimentos, aprender novas tecnologias e transforma
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
+
 <img 
     align="left" 
     alt="TailwindCSS" 
@@ -92,6 +108,7 @@ Sempre busco evoluir meus conhecimentos, aprender novas tecnologias e transforma
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Bootstrap"
@@ -100,6 +117,7 @@ Sempre busco evoluir meus conhecimentos, aprender novas tecnologias e transforma
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Java" 
@@ -108,6 +126,7 @@ Sempre busco evoluir meus conhecimentos, aprender novas tecnologias e transforma
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Node.js" 
@@ -116,6 +135,7 @@ Sempre busco evoluir meus conhecimentos, aprender novas tecnologias e transforma
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Git" 
@@ -124,6 +144,7 @@ Sempre busco evoluir meus conhecimentos, aprender novas tecnologias e transforma
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Python" 
@@ -136,21 +157,18 @@ Sempre busco evoluir meus conhecimentos, aprender novas tecnologias e transforma
 <br/>
 <br/>
 
-### 📊 Estatísticas
+---
 
-<p>
+## 📊 Estatísticas
+
+<p align="left">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GuiSaccomani&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=GuiSaccomani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
   />
-
-<img 
-      align="left" 
-      alt="Tecnologias" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSaccomani&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSaccomani&layout=compact&langs_count=7&theme=tokyonight"
   />
 </p>
